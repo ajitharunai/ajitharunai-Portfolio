@@ -629,10 +629,6 @@ textarea:focus {
     padding-top: 96px;
   }
 
-  .hero-card {
-    order: -1;
-  }
-
   .nav {
     position: absolute;
     inset-inline: 0;
